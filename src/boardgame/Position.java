@@ -9,8 +9,6 @@ public class Position {
         this.column = column;
     }
 
-    public Position() {}
-
     public Integer getRow() {
         return row;
     }

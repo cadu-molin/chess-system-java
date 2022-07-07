@@ -16,6 +16,8 @@ public class Program {
         ChessMatch chessMatch = new ChessMatch();
         List<ChessPiece> captured = new ArrayList<>();
 
+        //teste
+
         while (!chessMatch.getCheckMate()) {
             try {
                 UI.clearScreen();
